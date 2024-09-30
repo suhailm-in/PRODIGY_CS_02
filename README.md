@@ -8,7 +8,7 @@ This is a simple Python tool for encrypting and decrypting images using a basic 
 - **Decrypt Images**: Restore the original image by subtracting the same key value from the encrypted image's pixel values.
 - **Output Folder**: Automatically saves encrypted and decrypted images in an "output" folder. The folder is created if it doesn't exist.
 
-# Resources
+## Resources
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -41,20 +41,27 @@ If you prefer to install manually, you can use the following command after ensur
 pip install opencv-python numpy
 ```
 
-# Usage
+## Usage
+
 ### 1. Run the Tool
 After installation, you can run the tool using:
 ```bash
 python3 main.py
 ```
+
 ### 2. Choose an Operation
 The tool will prompt you to choose between encrypting or decrypting an image.
+
 ### 3. Input the Image Path
 Enter the full path of the image you wish to encrypt or decrypt.
+
 ### 4. Enter the Key
 Provide an integer key for encryption/decryption. Ensure the key is between 0 and 255.
+
 ### 5. View and Save Output
 The encrypted or decrypted image will be displayed, and you will have the option to save it in the `output` directory.
+
+
 
 
 ## Developed by
