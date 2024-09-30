@@ -1,4 +1,4 @@
-# Image Encryption and Decryption Tool
+# Pixel Manipulation for Image Encryption and Decryption Tool
 
 This is a simple Python tool for encrypting and decrypting images using a basic pixel manipulation technique. The tool allows users to securely encrypt images and later decrypt them using the same key.
 
