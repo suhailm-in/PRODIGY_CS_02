@@ -31,7 +31,7 @@ cd PRODIGY_CS_02
 This will install the required Python packages: OpenCV and NumPy.
 ```bash
 $ chmod +x install.sh
-$ ./install_tools.sh
+$ ./install.sh
 ```
 ### Manual Installation
 
