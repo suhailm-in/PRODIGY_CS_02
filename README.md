@@ -23,8 +23,8 @@ This is a simple Python tool for encrypting and decrypting images using a basic 
 
 ### Step 1: Clone the repository
 ```bash
-$ git clone https://github.com/suhailm-in/
-$ cd 
+git clone https://github.com/suhailm-in/PRODIGY_CS_02.git
+cd PRODIGY_CS_02
 ```
 
 ### Step 2: Run the Installation Script
